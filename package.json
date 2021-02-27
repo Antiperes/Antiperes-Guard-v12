@@ -1,0 +1,16 @@
+{
+  "name": "antiperes-guard-bot",
+  "version": "0.0.1",
+  "description": "Developed By Antiperes",
+  "main": "antiperes.js",
+  "scripts": {
+    "test": "node antiperes.js"
+  },
+  "author": "Antiperes",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "fs": "^0.0.1-security"
+  },
+  "keywords": []
+}
