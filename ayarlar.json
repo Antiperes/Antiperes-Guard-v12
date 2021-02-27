@@ -1,1 +1,15 @@
-{"botOwner":"Kendi İDNİZ","botPrefix":"Prefixiniz","botToken":"Tokeniniz","guildID":"Sunucu İDniz","botVoiceChannelID":"Botun Gireceği SesKanalı İDsi","logChannelID":"Log Kanalı İDsi","channelGuard":true,"serverGuard":true,"botGuard":true,"banGuard":true,"kickGuard":true,"whitelist":["Korumadan Etkilenmeyecek İDleri Buraya Girebilirsiniz"],"boosterRole":"Booster Rolü İDsi","jailRole":"Jailed Rolü İdsi"}
+{
+"botOwner":"Kendi İDNİZ",
+"botPrefix":"Prefixiniz",
+"botToken":"Tokeniniz",
+"guildID":"Sunucu İDniz",
+"botVoiceChannelID":"Botun Gireceği SesKanalı İDsi",
+"logChannelID":"Log KanalıİDsi", "channelGuard":true,
+"serverGuard":true,
+"botGuard":true,
+"banGuard":true,
+"kickGuard":true,
+"whitelist":["Korumadan Etkilenmeyecek İDleri Buraya Girebilirsiniz"],
+"boosterRole":"Booster Rolü İDsi",
+"jailRole":"Jailed Rolü İdsi"
+}
